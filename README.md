@@ -23,22 +23,29 @@ Once you have the Sales Analysis Dashboard set up, you can use it to:
 - Gain actionable insights by exploring interactive visualizations and drill-down capabilities.
 - Export and share reports and insights with stakeholders in various formats.
 
-## Sales Analysis 
-![Sales Analysis Page](https://github.com/nishanthan-k/Awesome-Chocolates-Sales-Analysis-Dashboard/blob/main/Dashboard%20Images/Sales%20Analysis.png)
-
-## Sales Team Performance
-![Sales Team Performance](https://github.com/nishanthan-k/Awesome-Chocolates-Sales-Analysis-Dashboard/blob/main/Dashboard%20Images/Sales%20Team%20Performance.png)
-
-## Sales and Customer Base Forecast
-![Sales and Customer Base Forecast](https://github.com/nishanthan-k/Awesome-Chocolates-Sales-Analysis-Dashboard/blob/main/Dashboard%20Images/Sales%20and%20Customer%20Base%20Forecast.png)
-
 ## Dashboard Pages
 
 The Sales Analysis Dashboard consists of the following pages:
 
-1. **Sales Analysis**: Provides an overview of sales performance, including revenue, units sold, and top-selling products.
-2. **Sales Team Performance**: Visualizes key performance indicators (KPIs) for the sales team, such as sales targets, individual performance, and team achievements.
-3. **Sales and Customer Base Forecast**: Offers predictive analytics on future sales trends and customer base growth.
+1. **Sales Analysis**
+2. **Sales Team Performance**
+3. **Sales and Customer Base Forecast**
+
+## Sales Analysis 
+Provides an overview of sales performance, including revenue, units sold, and top-selling products.
+
+![Sales Analysis Page](https://github.com/nishanthan-k/Awesome-Chocolates-Sales-Analysis-Dashboard/blob/main/Dashboard%20Images/Sales%20Analysis.png)
+
+## Sales Team Performance
+Visualizes key performance indicators (KPIs) for the sales team, such as sales targets, individual performance, and team achievements.
+
+![Sales Team Performance](https://github.com/nishanthan-k/Awesome-Chocolates-Sales-Analysis-Dashboard/blob/main/Dashboard%20Images/Sales%20Team%20Performance.png)
+
+## Sales and Customer Base Forecast
+Offers predictive analytics on future sales trends and customer base growth.
+
+![Sales and Customer Base Forecast](https://github.com/nishanthan-k/Awesome-Chocolates-Sales-Analysis-Dashboard/blob/main/Dashboard%20Images/Sales%20and%20Customer%20Base%20Forecast.png)
+
 
 ## License
 
