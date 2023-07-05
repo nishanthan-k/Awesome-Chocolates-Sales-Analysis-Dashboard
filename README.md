@@ -16,6 +16,16 @@ Once you have the Sales Analysis Dashboard set up, you can use it to:
 - Gain actionable insights by exploring interactive visualizations and drill-down capabilities.
 - Export and share reports and insights with stakeholders in various formats.
 
+## Sales Analysis 
+![Sales Analysis Page](https://github.com/nishanthan-k/Awesome-Chocolates-Sales-Analysis-Dashboard/blob/main/Dashboard%20Images/Sales%20Analysis.png)
+
+## Sales Team Performance
+![Sales Team Performance](https://github.com/nishanthan-k/Awesome-Chocolates-Sales-Analysis-Dashboard/blob/main/Dashboard%20Images/Sales%20Team%20Performance.png)
+
+## Sales and Customer Base Forecast
+![Sales and Customer Base Forecast](https://github.com/nishanthan-k/Awesome-Chocolates-Sales-Analysis-Dashboard/blob/main/Dashboard%20Images/Sales%20and%20Customer%20Base%20Forecast.png)
+
+
 ## Data
 
 The Sales Analysis Dashboard relies on a sample dataset for demonstration purposes. The dataset includes sales transactions, customer information, and other relevant metrics. You can find the sample data in the `data` folder of this repository.
