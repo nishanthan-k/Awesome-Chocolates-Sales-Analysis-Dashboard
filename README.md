@@ -28,7 +28,7 @@ Once you have the Sales Analysis Dashboard set up, you can use it to:
 
 ## Data
 
-The Sales Analysis Dashboard relies on a sample dataset for demonstration purposes. The dataset includes sales transactions, customer information, and other relevant metrics. You can find the sample data in the `data` folder of this repository.
+The Sales Analysis Dashboard relies on a sample dataset for demonstration purposes. The dataset includes sales transactions, customer information, and other relevant metrics. You can find the dataset in the `Dataset` folder of this repository.
 
 If you want to use your own data, make sure it is in a compatible format such as CSV or Excel. Modify the data connections in Power BI Desktop to point to your data sources.
 
