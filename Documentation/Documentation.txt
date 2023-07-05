@@ -1,0 +1,42 @@
+1. Load the Data 
+
+     1.1 Load the excel file 'awesome_chocolates_data' into Power BI.
+
+2. Data Modeling
+
+     2.1 Connect the 'Geography' column from sales table with 'Geo' column from locations table.
+
+     2.2 All other columns are mapped by the Power BI itself.
+
+3. Total sales amount by Locations
+
+     3.1 Create an measure for Total sales amount by using the below DAX formula
+          
+          3.1.1 Total Amount = sum(sales[Amount])
+
+     3.2 Use the Stacked Column chart 
+
+          3.2.1 Place the 'Geography' column from sales table in X-axis
+
+          3.2.2 Place our created 'Total Amount' in Y-axis
+		
+          3.2.3 We got one bar named 'Blank' in the chart. So we have to transform the 'Geography' column
+
+          3.2.4 To transform the column goto the Transform Data section in Home
+
+          3.2.5. Reason for this error is some countries have extra space in front and last 
+
+          3.2.6 Select the sales table and right click on 'Geography' column select Transform -> Trim 
+
+          3.2.7 Click 'Close & Apply'
+
+          3.2.8 Rename the title of the chart by Format Visual -> General -> Title
+
+4. Add new page for analyzing the Sales person performace 
+
+     4.1 Use table
+
+     4.2 Add Sales person and Total Amount to columns in the order like Sales Person first and Total Amount at the last
+
+     4.3 Remove the total because we are analyzing the Sales Person Performance so there is no need for their total sales amount. By Format Visual -> Search for 'Total' -> Turn Off the 'Values'
+
